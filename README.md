@@ -10,7 +10,7 @@ Perfect for quick and user-friendly downloads without needing to use the command
 ---
 ## 🧩 Tech Stack
 - **Frontend:** Streamlit  
-- **Backend:** Python + Pytube  
+- **Backend:** Python + yt-dlp  
 - **UI Framework:** Streamlit Components + CSS  
 - **Deployment:** Streamlit Cloud / Local
 ---
