@@ -7,7 +7,6 @@ Perfect for quick and user-friendly downloads without needing to use the command
 - 🎥 Download in multiple resolutions (e.g. 720p, 1080p)
 - 🎧 Extract and download audio in MP3 format
 - 📂 Simple, responsive Streamlit dashboard
-- ⚡ Fast and lightweight backend using `pytube`
 ---
 ## 🧩 Tech Stack
 - **Frontend:** Streamlit  
