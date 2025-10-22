@@ -1,5 +1,5 @@
 # 🎬 YouTube Downloader Dashboard (Streamlit App)
-A simple and elegant **YouTube Downloader Dashboard** built with [Streamlit](https://streamlit.io/) that lets you easily download YouTube videos or extract audio directly from the browser.  
+A simple and elegant **YouTube Downloader Dashboard**  
 Perfect for quick and user-friendly downloads without needing to use the command line.
 ---
 ## 🚀 Features
@@ -17,5 +17,5 @@ Perfect for quick and user-friendly downloads without needing to use the command
 ## 💻 Installation
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/FatemehCharoosaei/YouTube_Downloader.git
-cd YouTube_Downloader
+git clone https://github.com/FatemehCharoosaei/YouTubeDownloader_Streamlit.git
+cd YouTubeDownloader_Streamlit
